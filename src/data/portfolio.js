@@ -18,11 +18,6 @@ export const personalInfo = {
     url: "https://github.com/mero-60160",
     value: "mero-60160",
   },
-  portfolio: {
-    label: "Portfolio",
-    url: "https://aticiomerportfolio.netlify.app",
-    value: "aticiomerportfolio.netlify.app",
-  },
   seekingStage: "Recherche Stage 2 à 6 mois — 2026/2027",
   profileText:
     "Développeur Fullstack de formation, j'ai acquis de solides bases techniques dans la conception d'applications web. Je poursuis aujourd'hui mon parcours en Bac+3 Chef de projet Développement & Data à La Manu (Amiens), afin d'évoluer vers la Data (ingénierie, analyse), l'IA et le Cloud tout en renforçant mes compétences en gestion de projet. Dans le cadre de cette formation, je recherche un stage de 2 à 6 mois pour 2026-2027. J'ai à cœur d'apporter ma polyvalence, ma curiosité et ma soif d'apprendre au sein d'une équipe innovante.",
